@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
