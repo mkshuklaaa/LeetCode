@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/mkshuklaaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mkshuklaaa/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0100-same-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
