@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mkshuklaaa/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0061-rotate-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
