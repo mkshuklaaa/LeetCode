@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mkshuklaaa/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 ## Tree
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0086-partition-list) |
