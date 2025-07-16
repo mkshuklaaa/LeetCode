@@ -10,12 +10,20 @@
  */
 class Solution {
     public int gcd(int x,int y){
-        while (y != 0) {
-            int temp = y;
-            y = x % y;
-            x = temp;
+        int min = Math.min(x,y);
+        int temp = 1;
+        for(int i=2;i<=min;i++){
+            if(x%i==0 && y%i==0){
+                temp = Math.max(temp,i);
+            }
         }
-        return x;
+        return temp;
+        // while (y != 0) {
+        //     int temp = y;
+        //     y = x % y;
+        //     x = temp;
+        // }
+        // return x;
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         ListNode dummy = new ListNode(0);
