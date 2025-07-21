@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mkshuklaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mkshuklaaa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/mkshuklaaa/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mkshuklaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/mkshuklaaa/LeetCode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mkshuklaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
