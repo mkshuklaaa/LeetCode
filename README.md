@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/mkshuklaaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mkshuklaaa/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Linked List
 |  |
