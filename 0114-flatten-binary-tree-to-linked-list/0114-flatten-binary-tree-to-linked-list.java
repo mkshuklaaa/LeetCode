@@ -17,7 +17,8 @@ class Solution {
     public void flatten(TreeNode root) {
         if(root==null || root.left==null && root.right==null) return;
         TreeNode curr = root;
-       if(curr.left!=null){            
+        while(curr!=null){
+             if(curr.left!=null){            
                 TreeNode pre = curr.left;
                 while(pre.right!=null) pre = pre.right;
                 pre.right = curr.right;
@@ -25,6 +26,6 @@ class Solution {
                 curr.left=null;
         }
         curr = curr.right;
-        flatten(curr);
+        }
     }
 }
