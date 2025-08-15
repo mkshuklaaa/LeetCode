@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mkshuklaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
