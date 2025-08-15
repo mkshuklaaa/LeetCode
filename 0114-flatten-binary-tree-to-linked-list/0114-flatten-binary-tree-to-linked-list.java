@@ -15,17 +15,16 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        if(root == null) return;
-        if(root.left==null && root.right==null) return;
-        TreeNode left = root.left;
-        TreeNode right = root.right;
-        flatten(left);
-        flatten(right);
-        root.right = left;
-        TreeNode temp = left;
-        while(temp!=null && temp.right!=null) temp=temp.right;
-        if(temp!=null) temp.right = right;
-        else root.right = right;
-        root.left = null;
+        if(root==null || root.left==null && root.right==null) return;
+        TreeNode curr = root;
+       if(curr.left!=null){            
+                TreeNode pre = curr.left;
+                while(pre.right!=null) pre = pre.right;
+                pre.right = curr.right;
+                curr.right = curr.left;
+                curr.left=null;
+        }
+        curr = curr.right;
+        flatten(curr);
     }
 }
