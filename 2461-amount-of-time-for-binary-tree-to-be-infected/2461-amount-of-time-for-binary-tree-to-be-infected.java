@@ -55,7 +55,7 @@ class Solution {
                 q.add(p.get(temp));
                 v.put(p.get(temp),level+1);
             }
-            q.remove();
+            q.poll();
         }
 
         int max = -1;
