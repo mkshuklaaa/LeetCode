@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/mkshuklaaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/mkshuklaaa/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 ## String Matching
 |  |
 | ------- |
