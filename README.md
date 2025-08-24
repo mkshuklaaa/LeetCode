@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mkshuklaaa/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/mkshuklaaa/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/mkshuklaaa/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
