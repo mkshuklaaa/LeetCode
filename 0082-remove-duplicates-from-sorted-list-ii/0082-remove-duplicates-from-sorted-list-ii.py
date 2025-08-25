@@ -28,10 +28,4 @@ class Solution:
                 temp2 = temp2.next
             temp = temp.next
 
-        # temp2 = dummy.next
-        # while temp2:
-        #     print(temp2.val, end=" ")
-        #     temp2 = temp2.next
-        # print()
-
         return dummy.next
