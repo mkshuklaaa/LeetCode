@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/mkshuklaaa/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mkshuklaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/mkshuklaaa/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/mkshuklaaa/LeetCode/tree/master/0198-house-robber) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
