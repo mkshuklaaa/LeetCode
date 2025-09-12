@@ -1,28 +1,25 @@
 class Solution {
-    public void printP(int[] nums,List<List<Integer>> ans,List<Integer> arr,boolean[] isVisited){
-        if(arr.size()==nums.length){
-            List<Integer> temp = new ArrayList<>();
-            for(int i=0;i<arr.size();i++) temp.add(arr.get(i));
-            ans.add(temp);
+    public void printP(int[] nums,List<List<Integer>> ans,int idx){
+        if(idx==nums.length-1){
+            List<Integer> arr = new ArrayList<>();
+            for(int i=0;i<nums.length;i++) arr.add(nums[i]);
+            ans.add(arr);
             return;
         }
-        for(int i=0;i<nums.length;i++){
-            if(!isVisited[i]){
-                arr.add(nums[i]);
-                isVisited[i] = true;        
-                printP(nums,ans,arr,isVisited);
-                isVisited[i] = false;
-                arr.remove(arr.size()-1);
-            }
+        for(int i=idx;i<nums.length;i++){
+            int temp = nums[i];
+            nums[i] = nums[idx];
+            nums[idx] = temp;
+            printP(nums,ans,idx+1);
+            nums[idx] = nums[i];
+            nums[i]=temp;            
         }
         
 
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> arr = new ArrayList<>();
-        boolean[] isVisited = new boolean[nums.length];
-        printP(nums,ans,arr,isVisited);
+        printP(nums,ans,0);
         return ans;
     }
 }
