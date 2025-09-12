@@ -7,15 +7,19 @@ class Solution {
             return;
         }
         for(int i=idx;i<nums.length;i++){
-            int temp = nums[i];
-            nums[i] = nums[idx];
-            nums[idx] = temp;
+            swap(i,idx,nums);
+            
             printP(nums,ans,idx+1);
-            nums[idx] = nums[i];
-            nums[i]=temp;            
+            swap(i,idx,nums);            
         }
         
 
+    }
+
+    public void swap(int i,int idx,int[] nums){
+        int temp = nums[i];
+        nums[i] = nums[idx];
+        nums[idx] = temp;
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
