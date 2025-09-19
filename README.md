@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkshuklaaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mkshuklaaa/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0283-move-zeroes) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mkshuklaaa/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
