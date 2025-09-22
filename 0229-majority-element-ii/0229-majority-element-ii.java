@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Map<Integer,Integer> map = new HashMap<>();
+        Map<Integer,Integer> map = new TreeMap<>();
         List<Integer> list = new ArrayList<>();
         int n = nums.length;
         for(int i=0;i<n;i++){
