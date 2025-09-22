@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkshuklaaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/mkshuklaaa/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mkshuklaaa/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mkshuklaaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/mkshuklaaa/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mkshuklaaa/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0283-move-zeroes) |
