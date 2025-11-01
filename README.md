@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mkshuklaaa/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mkshuklaaa/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2662-check-knight-tour-configuration](https://github.com/mkshuklaaa/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
