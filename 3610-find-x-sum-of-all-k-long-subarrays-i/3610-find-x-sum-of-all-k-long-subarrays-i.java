@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
 
     private int find(Map<Integer, Integer> freqMap, int x) {
@@ -48,12 +46,5 @@ class Solution {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        int[] nums = {1, 2, 3, 4, 5, 6};
-        int[] ans = sol.findXSum(nums, 6, 1);
-        System.out.println(Arrays.toString(ans)); // ✅ Expected: [6]
     }
 }
