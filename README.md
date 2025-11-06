@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mkshuklaaa/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2662-check-knight-tour-configuration](https://github.com/mkshuklaaa/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mkshuklaaa/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2662-check-knight-tour-configuration](https://github.com/mkshuklaaa/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0948-sort-an-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -397,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/mkshuklaaa/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
