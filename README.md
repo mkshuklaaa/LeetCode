@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mkshuklaaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mkshuklaaa/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mkshuklaaa/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2662-check-knight-tour-configuration](https://github.com/mkshuklaaa/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/mkshuklaaa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/mkshuklaaa/LeetCode/tree/master/0044-wildcard-matching) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mkshuklaaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Trie
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## String Matching
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mkshuklaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
@@ -411,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/mkshuklaaa/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
