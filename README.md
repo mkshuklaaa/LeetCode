@@ -74,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mkshuklaaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Array
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/mkshuklaaa/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Matrix
 |  |
 | ------- |
