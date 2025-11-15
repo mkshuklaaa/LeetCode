@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mkshuklaaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mkshuklaaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mkshuklaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
