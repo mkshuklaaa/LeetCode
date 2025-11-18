@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/mkshuklaaa/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
