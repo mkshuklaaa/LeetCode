@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mkshuklaaa/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mkshuklaaa/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2662-check-knight-tour-configuration](https://github.com/mkshuklaaa/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mkshuklaaa/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
