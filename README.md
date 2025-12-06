@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mkshuklaaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0507-perfect-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
