@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mkshuklaaa/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mkshuklaaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mkshuklaaa/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mkshuklaaa/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mkshuklaaa/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mkshuklaaa/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Math
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mkshuklaaa/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/mkshuklaaa/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Stack
 |  |
