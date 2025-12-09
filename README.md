@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mkshuklaaa/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mkshuklaaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mkshuklaaa/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2662-check-knight-tour-configuration](https://github.com/mkshuklaaa/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mkshuklaaa/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mkshuklaaa/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mkshuklaaa/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mkshuklaaa/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
