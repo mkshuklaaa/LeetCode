@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/mkshuklaaa/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mkshuklaaa/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/mkshuklaaa/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mkshuklaaa/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/mkshuklaaa/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mkshuklaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mkshuklaaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mkshuklaaa/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
