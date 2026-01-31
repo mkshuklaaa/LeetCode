@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mkshuklaaa/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/mkshuklaaa/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/mkshuklaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/mkshuklaaa/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0283-move-zeroes) |
