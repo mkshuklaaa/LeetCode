@@ -473,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mkshuklaaa/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
