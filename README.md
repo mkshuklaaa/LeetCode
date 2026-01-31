@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/mkshuklaaa/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/mkshuklaaa/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0507-perfect-number) |
