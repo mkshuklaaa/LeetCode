@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mkshuklaaa/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/mkshuklaaa/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Combinatorics
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mkshuklaaa/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Prefix Sum
 |  |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/mkshuklaaa/LeetCode/tree/master/0182-duplicate-emails) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mkshuklaaa/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
