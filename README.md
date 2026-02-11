@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0507-perfect-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/mkshuklaaa/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mkshuklaaa/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mkshuklaaa/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mkshuklaaa/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/mkshuklaaa/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mkshuklaaa/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## String Matching
