@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/mkshuklaaa/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mkshuklaaa/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mkshuklaaa/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mkshuklaaa/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/mkshuklaaa/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/mkshuklaaa/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/mkshuklaaa/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mkshuklaaa/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mkshuklaaa/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mkshuklaaa/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mkshuklaaa/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/0258-add-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mkshuklaaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
