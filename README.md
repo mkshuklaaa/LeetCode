@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/mkshuklaaa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mkshuklaaa/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mkshuklaaa/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mkshuklaaa/LeetCode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mkshuklaaa/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/mkshuklaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/mkshuklaaa/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/mkshuklaaa/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0948-sort-an-array) |
