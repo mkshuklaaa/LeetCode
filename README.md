@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/mkshuklaaa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/mkshuklaaa/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0507-perfect-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mkshuklaaa/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/mkshuklaaa/LeetCode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/mkshuklaaa/LeetCode/tree/master/0258-add-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mkshuklaaa/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mkshuklaaa/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mkshuklaaa/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
