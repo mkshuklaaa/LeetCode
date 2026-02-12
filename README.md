@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/mkshuklaaa/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mkshuklaaa/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/mkshuklaaa/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mkshuklaaa/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mkshuklaaa/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/mkshuklaaa/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/mkshuklaaa/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mkshuklaaa/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/mkshuklaaa/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/mkshuklaaa/LeetCode/tree/master/0389-find-the-difference) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mkshuklaaa/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/mkshuklaaa/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
